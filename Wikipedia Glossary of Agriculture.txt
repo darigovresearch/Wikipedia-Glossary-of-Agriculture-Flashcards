@@ -1,4 +1,3 @@
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="agrarian_system" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Agrarian_system" title="Agrarian system">agrarian system</a></dfn></dt>
 <dd class="glossary">The dynamic set of economic and technological factors that affect <a href="#agriculture"><span title="See entry on this page at § agriculture" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">agricultural</span></a> practices in a particular region.</dd>
@@ -106,7 +105,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="biodynamic_agriculture" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Biodynamic_agriculture" title="Biodynamic agriculture">biodynamic agriculture</a></dfn></dt>
 <dd class="glossary">A type of alternative agriculture which incorporates holistic ecological approaches and aspects of <a href="#organic_farming"><span title="See entry on this page at § organic farming" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">organic</span></a> and <a href="#integrated_farming"><span title="See entry on this page at § integrated farming" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">integrated farming</span></a> but also emphasizes various esoteric perspectives, including spiritual and mystical beliefs about nature. The efficacy of biodynamic agricultural techniques lacks scientific evidence, and the practice has been labeled a <a href="/wiki/Pseudoscience" title="Pseudoscience">pseudoscience</a>.</dd>
@@ -162,7 +160,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="cash_crop" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Cash_crop" title="Cash crop">cash crop</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also called a <b>profit crop</b>.</span></p>
@@ -274,7 +271,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="deblossoming" style="margin-top: 0.4em;"><dfn class="glossary">deblossoming</dfn></dt>
 <dd class="glossary"></dd>
@@ -293,7 +289,6 @@
 <dd class="glossary"></dd>
 
 </dl>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="ecological_sanitation" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ecological_sanitation" title="Ecological sanitation">ecological sanitation</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -341,7 +336,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="factory_farming" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Factory_farming" class="mw-redirect" title="Factory farming">factory farming</a></dfn></dt>
 <dd class="glossary">See <i><a href="#intensive_animal_farming"><span title="See entry on this page at § intensive animal farming" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">intensive animal farming</span></a></i>.</dd>
@@ -461,7 +455,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="good_agricultural_practice_(gap)" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Good_agricultural_practice" title="Good agricultural practice">good agricultural practice</a> (GAP)</dfn></dt>
 <dd class="glossary">Any collection of specific principles or methods applied by agricultural producers in order to create food or non-food products that are safe, healthy, and wholesome for consumers while also taking into account economic, social, and environmental <a href="#sustainable_agriculture"><span title="See entry on this page at § sustainable agriculture" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">sustainability</span></a>. GAPs may be applied to a wide range of production systems and at different scales, and often vary with geographical context.</dd>
@@ -517,7 +510,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="harrow" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Harrow_(tool)" title="Harrow (tool)">harrow</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -550,7 +542,6 @@
 <dd class="glossary"></dd>
 
 </dl>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="industrial_agriculture" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Industrial_agriculture" class="mw-redirect" title="Industrial agriculture">industrial agriculture</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -600,7 +591,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=10" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="land_improvement" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Land_improvement" class="mw-redirect" title="Land improvement">land improvement</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -612,7 +602,6 @@
 <dd class="glossary">Any <a href="#domestication"><span title="See entry on this page at § domestication" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">domesticated</span></a> animals raised in an agricultural setting in order to produce labor and/or agricultural commodities such as meat, eggs, milk, fur, leather, and wool. In certain contexts the term may be used more narrowly to refer exclusively to animals that are bred for consumption, or only to farmed <a href="/wiki/Ruminant" title="Ruminant">ruminants</a> such as <a href="/wiki/Cattle" title="Cattle">cattle</a> and <a href="/wiki/Goat" title="Goat">goats</a>; <a href="/wiki/Sheep" title="Sheep">sheep</a>, <a href="/wiki/Pig" title="Pig">pigs</a>, and <a href="/wiki/Horse" title="Horse">horses</a> are also often considered livestock, while <a href="#poultry"><span title="See entry on this page at § poultry" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">poultry</span></a> and <a href="/wiki/Fish" title="Fish">fish</a> are usually excluded.</dd>
 
 </dl>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=11" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="manure" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Manure" title="Manure">manure</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -681,7 +670,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=12" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="no-till_farming" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/No-till_farming" title="No-till farming">no-till farming</a></dfn></dt>
 <dd class="glossary">Any method of growing <a href="#crop"><span title="See entry on this page at § crop" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">crops</span></a> or maintaining <a href="#pasture"><span title="See entry on this page at § pasture" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">pasture</span></a> without disturbing the soil through <a href="#tillage"><span title="See entry on this page at § tillage" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tillage</span></a>. Though soil tillage is widely practiced in modern agriculture, proponents assert that in certain contexts no-till or low-till techniques can increase the soil's retention of water and organic matter and reduce soil erosion.</dd>
@@ -693,7 +681,6 @@
 <dd class="glossary"></dd>
 
 </dl>
-<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=13" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="orchard" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Orchard" title="Orchard">orchard</a></dfn></dt>
 <dd class="glossary">Any intentional planting of <a href="/wiki/Tree" title="Tree">trees</a> or <a href="/wiki/Shrub" title="Shrub">shrubs</a> that is maintained for food production. Most orchards are planted with a single variety of fruit- or nut-producing tree, and are often laid out in a regular grid with wide spacing and grazed or mown grass or bare soil between individual trees to make maintenance and harvesting easy.</dd>
@@ -734,7 +721,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=14" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="pannage" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Pannage" title="Pannage">pannage</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -833,7 +819,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=15" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="raised-bed_gardening" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Raised-bed_gardening" title="Raised-bed gardening">raised-bed gardening</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -857,7 +842,6 @@
 <dd class="glossary">Any <a href="#crop"><span title="See entry on this page at § crop" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">crop</span></a> that can be planted in rows wide enough to allow it to be <a href="#tillage"><span title="See entry on this page at § tillage" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tilled</span></a> or otherwise cultivated by agricultural machinery specifically designed for that purpose. Such crops are generally <a href="#sowing"><span title="See entry on this page at § sowing" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">sown</span></a> by <a href="#seed_drill"><span title="See entry on this page at § seed drill" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">drilling</span></a> rather than by <a href="#broadcast_seeding"><span title="See entry on this page at § broadcast seeding" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">broadcast seeding</span></a>.</dd>
 
 </dl>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=16" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="seed_drill" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Seed_drill" title="Seed drill">seed drill</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -953,7 +937,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=17" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="tenant_farmer" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Tenant_farmer" title="Tenant farmer">tenant farmer</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1007,13 +990,11 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=18" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="urban_agriculture" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Urban_agriculture" title="Urban agriculture">urban agriculture</a></dfn></dt>
 <dd class="glossary"></dd>
 
 </dl>
-<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=19" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="vermiculture" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Vermiculture" class="mw-redirect" title="Vermiculture">vermiculture</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1026,7 +1007,6 @@
 <dd class="glossary">The cultivation of <a href="/wiki/Grape" title="Grape">grapes</a>, especially for use in <a href="/wiki/Winemaking" title="Winemaking">winemaking</a>.</dd>
 
 </dl>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=20" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="water-meadow" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Water-meadow" title="Water-meadow">water-meadow</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1041,13 +1021,11 @@
 <dd class="glossary"></dd>
 
 </dl>
-<h2><span class="mw-headline" id="X">X</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=21" title="Edit section: X">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="xeriscaping" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Xeriscaping" title="Xeriscaping">xeriscaping</a></dfn></dt>
 <dd class="glossary">The practice of gardening or landscaping so as to reduce or eliminate the need for supplemental water from <a href="#irrigation"><span title="See entry on this page at § irrigation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">irrigation</span></a>. Xeriscaping requires the selection of plants whose natural requirements are appropriate to the local climate, with a particular emphasis on <a href="/wiki/Water_conservation" title="Water conservation">water conservation</a>, and focuses on designing and maintaining the land in such a way as to avoid losing water to evaporation and run-off.</dd>
 
 </dl>
-<h2><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_agriculture&amp;action=edit&amp;section=22" title="Edit section: Y">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="yield" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Crop_yield" title="Crop yield">yield</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also called <b>agricultural output</b>.</span></p>
