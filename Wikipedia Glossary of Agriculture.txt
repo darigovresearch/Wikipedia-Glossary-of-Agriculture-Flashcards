@@ -76,35 +76,6 @@
 <dd class="glossary">The process by which humans use <a href="/wiki/Animal_breeding" title="Animal breeding">animal breeding</a> and <a href="/wiki/Plant_breeding" title="Plant breeding">plant breeding</a> to <a href="/wiki/Natural_selection" title="Natural selection">selectively</a> control the development of particular <a href="/wiki/Phenotype" title="Phenotype">phenotypic traits</a> in organisms by choosing which individual organisms will reproduce and create <a href="/wiki/Offspring" title="Offspring">offspring</a>. Artificial selection involves the deliberate exploitation of knowledge about <a href="/wiki/Genetics" title="Genetics">genetics</a> and <a href="/wiki/Reproductive_biology" title="Reproductive biology">reproductive biology</a> in the hope of producing desirable characteristics in descendant organisms. It is widely practiced in <a href="#agriculture"><span title="See entry on this page at § agriculture" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">agriculture</span></a>, but it may also be unintentional and may produce unintended results.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="biodynamic_agriculture" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Biodynamic_agriculture" title="Biodynamic agriculture">biodynamic agriculture</a></dfn></dt>
 <dd class="glossary">A type of alternative agriculture which incorporates holistic ecological approaches and aspects of <a href="#organic_farming"><span title="See entry on this page at § organic farming" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">organic</span></a> and <a href="#integrated_farming"><span title="See entry on this page at § integrated farming" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">integrated farming</span></a> but also emphasizes various esoteric perspectives, including spiritual and mystical beliefs about nature. The efficacy of biodynamic agricultural techniques lacks scientific evidence, and the practice has been labeled a <a href="/wiki/Pseudoscience" title="Pseudoscience">pseudoscience</a>.</dd>
@@ -131,35 +102,6 @@
 <dd class="glossary">Any <a href="#crop"><span title="See entry on this page at § crop" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">crop</span></a> that yields an unusually large or productive <a href="#harvest"><span title="See entry on this page at § harvest" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">harvest</span></a>.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="cash_crop" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Cash_crop" title="Cash crop">cash crop</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also called a <b>profit crop</b>.</span></p>
@@ -242,35 +184,6 @@
 <dd class="glossary"></dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="deblossoming" style="margin-top: 0.4em;"><dfn class="glossary">deblossoming</dfn></dt>
 <dd class="glossary"></dd>
@@ -307,35 +220,6 @@
 <dd class="glossary">Any system of agricultural production that uses small inputs of labor, fertilizer, and/or <a href="/wiki/Capital_(economics)" title="Capital (economics)">capital</a> relative to the land area used for production, in contrast to <a href="#intensive_agriculture"><span title="See entry on this page at § intensive agriculture" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">intensive agriculture</span></a>.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="factory_farming" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Factory_farming" class="mw-redirect" title="Factory farming">factory farming</a></dfn></dt>
 <dd class="glossary">See <i><a href="#intensive_animal_farming"><span title="See entry on this page at § intensive animal farming" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">intensive animal farming</span></a></i>.</dd>
@@ -426,35 +310,6 @@
 <dd class="glossary">A type of <a href="#irrigation"><span title="See entry on this page at § irrigation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">irrigation</span></a> which relies on long, shallow, parallel channels, known as <i>furrows</i>, dug into the soil along the length of an agricultural field to deliver water to crops planted on the ridges between the furrows. Water is applied to one end of the furrows, which are aligned in the direction of the field's predominant natural slope, and flows down the furrows by gravity. Furrow irrigation is particularly suited to broadacre <a href="#row_crop"><span title="See entry on this page at § row crop" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">row crops</span></a> such as <a href="/wiki/Cotton" title="Cotton">cotton</a>, <a href="/wiki/Maize" title="Maize">maize</a>, and <a href="/wiki/Sugarcane" title="Sugarcane">sugarcane</a>.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="good_agricultural_practice_(gap)" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Good_agricultural_practice" title="Good agricultural practice">good agricultural practice</a> (GAP)</dfn></dt>
 <dd class="glossary">Any collection of specific principles or methods applied by agricultural producers in order to create food or non-food products that are safe, healthy, and wholesome for consumers while also taking into account economic, social, and environmental <a href="#sustainable_agriculture"><span title="See entry on this page at § sustainable agriculture" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">sustainability</span></a>. GAPs may be applied to a wide range of production systems and at different scales, and often vary with geographical context.</dd>
@@ -481,35 +336,6 @@
 <dd class="glossary">The part of the year during which local weather conditions (i.e. temperature and precipitation) permit the normal growth of <a href="/wiki/Plant" title="Plant">plants</a> in a given location. Though the timing of plant growth and reproduction can vary widely by species, many local plant species show considerable <a href="/wiki/Phenology" title="Phenology">phenological</a> overlap, and so the term is commonly used to refer to a single generic season that encompasses a majority of the plants or crops growing in a given location. In many places, the local "growing season" is defined as the period of time between the average date of the last <a href="/wiki/Frost" title="Frost">frost</a> (in temperate parts of the <a href="#northern_Hemisphere"><span title="See entry on this page at § Northern Hemisphere" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Northern Hemisphere</span></a>, this typically occurs in the spring or early summer) and the average date of the first frost (typically in the autumn).</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="harrow" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Harrow_(tool)" title="Harrow (tool)">harrow</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -562,35 +388,6 @@
 <dd class="glossary">The application of controlled amounts of water to plants at needed intervals, especially for the purposes of growing agricultural <a href="#crop"><span title="See entry on this page at § crop" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">crops</span></a>, maintaining landscapes, or <a href="/wiki/Revegetation" title="Revegetation">revegetating</a> disturbed or drought-affected soils. Irrigation systems may also be used as a means of protecting crops from frost, suppressing the growth of weeds, preventing soil consolidation, cooling <a href="#livestock"><span title="See entry on this page at § livestock" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">livestock</span></a>, and controlling airborne dust.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="land_improvement" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Land_improvement" class="mw-redirect" title="Land improvement">land improvement</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -641,35 +438,6 @@
 <dd class="glossary">The practice of growing two or more <a href="#crop"><span title="See entry on this page at § crop" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">crops</span></a> on the same area of land in the same <a href="#growing_season"><span title="See entry on this page at § growing season" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">growing season</span></a> (as opposed to growing only one crop); the crops may be harvested at the same time or at different times. It is a form of <a href="#polyculture"><span title="See entry on this page at § polyculture" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">polyculture</span></a>. See also <i><a href="#companion_planting"><span title="See entry on this page at § companion planting" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">companion planting</span></a></i>.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="no-till_farming" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/No-till_farming" title="No-till farming">no-till farming</a></dfn></dt>
 <dd class="glossary">Any method of growing <a href="#crop"><span title="See entry on this page at § crop" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">crops</span></a> or maintaining <a href="#pasture"><span title="See entry on this page at § pasture" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">pasture</span></a> without disturbing the soil through <a href="#tillage"><span title="See entry on this page at § tillage" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tillage</span></a>. Though soil tillage is widely practiced in modern agriculture, proponents assert that in certain contexts no-till or low-till techniques can increase the soil's retention of water and organic matter and reduce soil erosion.</dd>
@@ -692,35 +460,6 @@
 <dd class="glossary"></dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="pannage" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Pannage" title="Pannage">pannage</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -790,35 +529,6 @@
 <dd class="glossary"></dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="raised-bed_gardening" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Raised-bed_gardening" title="Raised-bed gardening">raised-bed gardening</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -908,35 +618,6 @@
 <dd class="glossary"></dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="tenant_farmer" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Tenant_farmer" title="Tenant farmer">tenant farmer</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -961,35 +642,6 @@
 <dd class="glossary"></dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="urban_agriculture" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Urban_agriculture" title="Urban agriculture">urban agriculture</a></dfn></dt>
 <dd class="glossary"></dd>
