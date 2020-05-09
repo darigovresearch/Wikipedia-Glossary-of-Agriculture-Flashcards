@@ -1,4 +1,3 @@
-<dl class="glossary">
 <dt class="glossary" id="agrarian_system" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Agrarian_system" title="Agrarian system">agrarian system</a></dfn></dt>
 <dd class="glossary">The dynamic set of economic and technological factors that affect <a href="#agriculture"><span title="See entry on this page at § agriculture" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">agricultural</span></a> practices in a particular region.</dd>
 
@@ -75,8 +74,6 @@
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also called <b>selective breeding</b>.</span></p>
 <dd class="glossary">The process by which humans use <a href="/wiki/Animal_breeding" title="Animal breeding">animal breeding</a> and <a href="/wiki/Plant_breeding" title="Plant breeding">plant breeding</a> to <a href="/wiki/Natural_selection" title="Natural selection">selectively</a> control the development of particular <a href="/wiki/Phenotype" title="Phenotype">phenotypic traits</a> in organisms by choosing which individual organisms will reproduce and create <a href="/wiki/Offspring" title="Offspring">offspring</a>. Artificial selection involves the deliberate exploitation of knowledge about <a href="/wiki/Genetics" title="Genetics">genetics</a> and <a href="/wiki/Reproductive_biology" title="Reproductive biology">reproductive biology</a> in the hope of producing desirable characteristics in descendant organisms. It is widely practiced in <a href="#agriculture"><span title="See entry on this page at § agriculture" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">agriculture</span></a>, but it may also be unintentional and may produce unintended results.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="biodynamic_agriculture" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Biodynamic_agriculture" title="Biodynamic agriculture">biodynamic agriculture</a></dfn></dt>
 <dd class="glossary">A type of alternative agriculture which incorporates holistic ecological approaches and aspects of <a href="#organic_farming"><span title="See entry on this page at § organic farming" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">organic</span></a> and <a href="#integrated_farming"><span title="See entry on this page at § integrated farming" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">integrated farming</span></a> but also emphasizes various esoteric perspectives, including spiritual and mystical beliefs about nature. The efficacy of biodynamic agricultural techniques lacks scientific evidence, and the practice has been labeled a <a href="/wiki/Pseudoscience" title="Pseudoscience">pseudoscience</a>.</dd>
 
@@ -101,8 +98,6 @@
 <dt class="glossary" id="bumper_crop" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Bumper_crop" title="Bumper crop">bumper crop</a></dfn></dt>
 <dd class="glossary">Any <a href="#crop"><span title="See entry on this page at § crop" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">crop</span></a> that yields an unusually large or productive <a href="#harvest"><span title="See entry on this page at § harvest" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">harvest</span></a>.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="cash_crop" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Cash_crop" title="Cash crop">cash crop</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also called a <b>profit crop</b>.</span></p>
 <dd class="glossary">Any <a href="#crop"><span title="See entry on this page at § crop" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">crop</span></a> that is grown so that it can be marketed and sold for profit, as opposed to a <a href="#subsistence_agriculture"><span title="See entry on this page at § subsistence agriculture" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">subsistence crop</span></a>, which is grown for the producer's own use. While historically cash crops have often been only a small part of a farm's total <a href="#yield"><span title="See entry on this page at § yield" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">yield</span></a>, almost all modern crops in developed nations are grown primarily for revenue.</dd>
@@ -183,8 +178,6 @@
 <dt class="glossary" id="custom_harvesting" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Custom_harvesting" title="Custom harvesting">custom harvesting</a></dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="deblossoming" style="margin-top: 0.4em;"><dfn class="glossary">deblossoming</dfn></dt>
 <dd class="glossary"></dd>
 
@@ -201,8 +194,6 @@
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also called <b>arid-zone agriculture</b>.</span></p>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="ecological_sanitation" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ecological_sanitation" title="Ecological sanitation">ecological sanitation</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -219,8 +210,6 @@
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also called <b>extensive farming</b>.</span></p>
 <dd class="glossary">Any system of agricultural production that uses small inputs of labor, fertilizer, and/or <a href="/wiki/Capital_(economics)" title="Capital (economics)">capital</a> relative to the land area used for production, in contrast to <a href="#intensive_agriculture"><span title="See entry on this page at § intensive agriculture" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">intensive agriculture</span></a>.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="factory_farming" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Factory_farming" class="mw-redirect" title="Factory farming">factory farming</a></dfn></dt>
 <dd class="glossary">See <i><a href="#intensive_animal_farming"><span title="See entry on this page at § intensive animal farming" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">intensive animal farming</span></a></i>.</dd>
 
@@ -309,8 +298,6 @@
 <dt class="glossary" id="furrow_irrigation" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Furrow_irrigation" class="mw-redirect" title="Furrow irrigation">furrow irrigation</a></dfn></dt>
 <dd class="glossary">A type of <a href="#irrigation"><span title="See entry on this page at § irrigation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">irrigation</span></a> which relies on long, shallow, parallel channels, known as <i>furrows</i>, dug into the soil along the length of an agricultural field to deliver water to crops planted on the ridges between the furrows. Water is applied to one end of the furrows, which are aligned in the direction of the field's predominant natural slope, and flows down the furrows by gravity. Furrow irrigation is particularly suited to broadacre <a href="#row_crop"><span title="See entry on this page at § row crop" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">row crops</span></a> such as <a href="/wiki/Cotton" title="Cotton">cotton</a>, <a href="/wiki/Maize" title="Maize">maize</a>, and <a href="/wiki/Sugarcane" title="Sugarcane">sugarcane</a>.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="good_agricultural_practice_(gap)" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Good_agricultural_practice" title="Good agricultural practice">good agricultural practice</a> (GAP)</dfn></dt>
 <dd class="glossary">Any collection of specific principles or methods applied by agricultural producers in order to create food or non-food products that are safe, healthy, and wholesome for consumers while also taking into account economic, social, and environmental <a href="#sustainable_agriculture"><span title="See entry on this page at § sustainable agriculture" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">sustainability</span></a>. GAPs may be applied to a wide range of production systems and at different scales, and often vary with geographical context.</dd>
 
@@ -335,8 +322,6 @@
 <dt class="glossary" id="growing_season" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Growing_season" title="Growing season">growing season</a></dfn></dt>
 <dd class="glossary">The part of the year during which local weather conditions (i.e. temperature and precipitation) permit the normal growth of <a href="/wiki/Plant" title="Plant">plants</a> in a given location. Though the timing of plant growth and reproduction can vary widely by species, many local plant species show considerable <a href="/wiki/Phenology" title="Phenology">phenological</a> overlap, and so the term is commonly used to refer to a single generic season that encompasses a majority of the plants or crops growing in a given location. In many places, the local "growing season" is defined as the period of time between the average date of the last <a href="/wiki/Frost" title="Frost">frost</a> (in temperate parts of the <a href="#northern_Hemisphere"><span title="See entry on this page at § Northern Hemisphere" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Northern Hemisphere</span></a>, this typically occurs in the spring or early summer) and the average date of the first frost (typically in the autumn).</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="harrow" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Harrow_(tool)" title="Harrow (tool)">harrow</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -367,8 +352,6 @@
 <dt class="glossary" id="husbandry" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Husbandry" class="mw-redirect" title="Husbandry">husbandry</a></dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="industrial_agriculture" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Industrial_agriculture" class="mw-redirect" title="Industrial agriculture">industrial agriculture</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -387,8 +370,6 @@
 <dt class="glossary" id="irrigation" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Irrigation" title="Irrigation">irrigation</a></dfn></dt>
 <dd class="glossary">The application of controlled amounts of water to plants at needed intervals, especially for the purposes of growing agricultural <a href="#crop"><span title="See entry on this page at § crop" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">crops</span></a>, maintaining landscapes, or <a href="/wiki/Revegetation" title="Revegetation">revegetating</a> disturbed or drought-affected soils. Irrigation systems may also be used as a means of protecting crops from frost, suppressing the growth of weeds, preventing soil consolidation, cooling <a href="#livestock"><span title="See entry on this page at § livestock" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">livestock</span></a>, and controlling airborne dust.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="land_improvement" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Land_improvement" class="mw-redirect" title="Land improvement">land improvement</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -398,8 +379,6 @@
 <dt class="glossary" id="livestock" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Livestock" title="Livestock">livestock</a></dfn></dt>
 <dd class="glossary">Any <a href="#domestication"><span title="See entry on this page at § domestication" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">domesticated</span></a> animals raised in an agricultural setting in order to produce labor and/or agricultural commodities such as meat, eggs, milk, fur, leather, and wool. In certain contexts the term may be used more narrowly to refer exclusively to animals that are bred for consumption, or only to farmed <a href="/wiki/Ruminant" title="Ruminant">ruminants</a> such as <a href="/wiki/Cattle" title="Cattle">cattle</a> and <a href="/wiki/Goat" title="Goat">goats</a>; <a href="/wiki/Sheep" title="Sheep">sheep</a>, <a href="/wiki/Pig" title="Pig">pigs</a>, and <a href="/wiki/Horse" title="Horse">horses</a> are also often considered livestock, while <a href="#poultry"><span title="See entry on this page at § poultry" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">poultry</span></a> and <a href="/wiki/Fish" title="Fish">fish</a> are usually excluded.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="manure" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Manure" title="Manure">manure</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -437,8 +416,6 @@
 <dt class="glossary" id="multiple_cropping" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Multiple_cropping" title="Multiple cropping">multiple cropping</a></dfn></dt>
 <dd class="glossary">The practice of growing two or more <a href="#crop"><span title="See entry on this page at § crop" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">crops</span></a> on the same area of land in the same <a href="#growing_season"><span title="See entry on this page at § growing season" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">growing season</span></a> (as opposed to growing only one crop); the crops may be harvested at the same time or at different times. It is a form of <a href="#polyculture"><span title="See entry on this page at § polyculture" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">polyculture</span></a>. See also <i><a href="#companion_planting"><span title="See entry on this page at § companion planting" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">companion planting</span></a></i>.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="no-till_farming" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/No-till_farming" title="No-till farming">no-till farming</a></dfn></dt>
 <dd class="glossary">Any method of growing <a href="#crop"><span title="See entry on this page at § crop" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">crops</span></a> or maintaining <a href="#pasture"><span title="See entry on this page at § pasture" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">pasture</span></a> without disturbing the soil through <a href="#tillage"><span title="See entry on this page at § tillage" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tillage</span></a>. Though soil tillage is widely practiced in modern agriculture, proponents assert that in certain contexts no-till or low-till techniques can increase the soil's retention of water and organic matter and reduce soil erosion.</dd>
 
@@ -448,8 +425,6 @@
 <dt class="glossary" id="nursery" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Plant_nursery" title="Plant nursery">nursery</a></dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="orchard" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Orchard" title="Orchard">orchard</a></dfn></dt>
 <dd class="glossary">Any intentional planting of <a href="/wiki/Tree" title="Tree">trees</a> or <a href="/wiki/Shrub" title="Shrub">shrubs</a> that is maintained for food production. Most orchards are planted with a single variety of fruit- or nut-producing tree, and are often laid out in a regular grid with wide spacing and grazed or mown grass or bare soil between individual trees to make maintenance and harvesting easy.</dd>
 
@@ -459,8 +434,6 @@
 <dt class="glossary" id="organic_farming" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Organic_farming" title="Organic farming">organic farming</a></dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="pannage" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Pannage" title="Pannage">pannage</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -528,8 +501,6 @@
 <dt class="glossary" id="push–pull_technology" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Push%E2%80%93pull_technology" class="mw-redirect" title="Push–pull technology">push–pull technology</a></dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="raised-bed_gardening" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Raised-bed_gardening" title="Raised-bed gardening">raised-bed gardening</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -551,8 +522,6 @@
 <dt class="glossary" id="row_crop" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Row_crop" title="Row crop">row crop</a></dfn></dt>
 <dd class="glossary">Any <a href="#crop"><span title="See entry on this page at § crop" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">crop</span></a> that can be planted in rows wide enough to allow it to be <a href="#tillage"><span title="See entry on this page at § tillage" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tilled</span></a> or otherwise cultivated by agricultural machinery specifically designed for that purpose. Such crops are generally <a href="#sowing"><span title="See entry on this page at § sowing" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">sown</span></a> by <a href="#seed_drill"><span title="See entry on this page at § seed drill" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">drilling</span></a> rather than by <a href="#broadcast_seeding"><span title="See entry on this page at § broadcast seeding" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">broadcast seeding</span></a>.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="seed_drill" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Seed_drill" title="Seed drill">seed drill</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -617,8 +586,6 @@
 <dt class="glossary" id="swather" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Swather" title="Swather">swather</a></dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="tenant_farmer" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Tenant_farmer" title="Tenant farmer">tenant farmer</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -641,13 +608,9 @@
 <dt class="glossary" id="tree_farm" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Tree_farm" title="Tree farm">tree farm</a></dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="urban_agriculture" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Urban_agriculture" title="Urban agriculture">urban agriculture</a></dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="vermiculture" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Vermiculture" class="mw-redirect" title="Vermiculture">vermiculture</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -658,8 +621,6 @@
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also <b>winegrowing</b>.</span></p>
 <dd class="glossary">The cultivation of <a href="/wiki/Grape" title="Grape">grapes</a>, especially for use in <a href="/wiki/Winemaking" title="Winemaking">winemaking</a>.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="water-meadow" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Water-meadow" title="Water-meadow">water-meadow</a></dfn></dt>
 <dd class="glossary"></dd>
 
@@ -672,15 +633,9 @@
 <dt class="glossary" id="windrow" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Windrow" title="Windrow">windrow</a></dfn></dt>
 <dd class="glossary"></dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="xeriscaping" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Xeriscaping" title="Xeriscaping">xeriscaping</a></dfn></dt>
 <dd class="glossary">The practice of gardening or landscaping so as to reduce or eliminate the need for supplemental water from <a href="#irrigation"><span title="See entry on this page at § irrigation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">irrigation</span></a>. Xeriscaping requires the selection of plants whose natural requirements are appropriate to the local climate, with a particular emphasis on <a href="/wiki/Water_conservation" title="Water conservation">water conservation</a>, and focuses on designing and maintaining the land in such a way as to avoid losing water to evaporation and run-off.</dd>
 
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="yield" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Crop_yield" title="Crop yield">yield</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also called <b>agricultural output</b>.</span></p>
 <dd class="glossary"></dd>
-
-</dl>
